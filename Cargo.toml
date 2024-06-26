@@ -1,0 +1,3 @@
+[workspace]
+resolver = "2"
+members = ["app/lambda_webhook", "app/ecs_subscriber", "app/topic_publisher"]
